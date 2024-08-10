@@ -15,5 +15,4 @@ def NewProjects():
     return projects
 
 
-projects = NewProjects()
-print(projects)
+
